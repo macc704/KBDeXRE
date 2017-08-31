@@ -1,0 +1,17 @@
+#設定ファイル
+#はコメント行
+#v はバージョン
+#d は削除するファイル（フォルダ）
+
+v 1.10.5 kbdex-1.10.5-201703272107-with-japanese.zip
+v 1.10.4 kbdex-1.10.4-201601080942-with-japanese.zip
+v 1.10.3 kbdex-1.10.3-201511301739-with-japanese.zip
+v 1.10.2 kbdex-1.10.2-201511261719-with-japanese.zip
+v 1.10.1 kbdex-1.10.1-201510021136-with-japanese.zip
+v 1.9.9 kbdex-1.9.9-201412200026-with-japanese.zip
+v 1.8.2 kbdex-1.8.2-201408281246-with-japanese.zip
+
+#公開バージョン
+v 1.8.1 kbdex-1.8.1-201408201738-with-japanese.zip
+v 1.8.0 kbdex-1.8.0-201408201336-with-japanese.zip
+
